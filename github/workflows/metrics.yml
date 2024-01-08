@@ -1,0 +1,23 @@
+name: Metrics Readme
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  Metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Recent posts with descriptions and cover images
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.posts.full.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_posts: yes
+        plugin_posts_source: kodeteks.com
+        plugin_posts_limit: 3
+        plugin_posts_descriptions: yes
+        plugin_posts_covers: yes
