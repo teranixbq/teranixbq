@@ -1,15 +1,22 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fteranixbq%2Fteranixbq&label=visitors&labelColor=%23d9e3f0&countColor=%23555555&style=flat)
+<img src="https://storage.kodeteks.com/line.gif">
+
 
 ### Hi there 👋
 
+## :globe_with_meridians: Socials
 
-### Achievements
+![Static Badge](https://img.shields.io/badge/linkedin-s?style=flat&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhanieffba)
+![Static Badge](https://img.shields.io/badge/dev.to-s?style=flat&logo=devdotto&logoColor=white&color=%230A0A0A&link=https%3A%2F%2Fdev.to%2Fteranixbq)
+![Static Badge](https://img.shields.io/badge/blogger-s?style=flat&logo=blogger&logoColor=white&color=%23FF5722&link=https%3A%2F%2Fwww.kodeteks.com%2F)
+
+
+## :trophy: Achievements
 
 ![](https://github-profile-trophy.vercel.app/?username=teranixbq&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
 
-<img src="https://storage.kodeteks.com/line.gif">
 
-### Tech Stack
+## :technologist: Tech Stack
 ![Static Badge](https://img.shields.io/badge/linux-l?style=for-the-badge&logo=linux&logoColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/zorin%20OS-l?style=for-the-badge&logo=zorin&logoColor=white&color=%2315A6F0)
 ![Static Badge](https://img.shields.io/badge/go-l?style=for-the-badge&logo=go&logoColor=white&color=%2300ADD8)
@@ -28,9 +35,8 @@
 ![Static Badge](https://img.shields.io/badge/cpanel-l?style=for-the-badge&logo=cpanel&logoColor=white&color=%23FF6C2C)
 ![Static Badge](https://img.shields.io/badge/nginx-l?style=for-the-badge&logo=nginx&logoColor=white&color=%23009639)
 
-<img src="https://storage.kodeteks.com/line.gif">
 
-### Github Statistic
+## :bar_chart: Github Statistic
 <p align="left">
 <a href="https://github.com/teranixbq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teranixbq&show_icons=true&theme=aura&include_all_commits=false&count_private=false"/>
@@ -38,7 +44,8 @@
 </a>
 </p>
 
-### RSS
-
+## :bookmark_tabs: RSS
 <a href="https://kodeteks.com/"><img src="rss.svg" alt="rss" /></a>
+
+<img src="https://storage.kodeteks.com/line.gif">
 
