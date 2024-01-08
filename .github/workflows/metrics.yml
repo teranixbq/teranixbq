@@ -1,5 +1,8 @@
 name: Metrics
-on: [push]
+on:
+  push:
+  schedule:
+    - cron: "0 0 * * 0"
 jobs:
   Metrics:
     runs-on: ubuntu-latest
@@ -13,7 +16,7 @@ jobs:
         plugin_rss: yes
         plugin_rss_source: https://feeds.feedburner.com/kodeteks
         plugin_rss_limit: 4
-        
+
     - name: Recent posts with descriptions and cover images
       uses: lowlighter/metrics@latest
       with:
