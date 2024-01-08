@@ -10,13 +10,8 @@ jobs:
         filename: metrics.plugin.rss.svg
         token: NOT_NEEDED
         base: ""
-<<<<<<< HEAD
         plugin_rss: yes
         plugin_rss_source: https://feeds.feedburner.com/kodeteks
         plugin_rss_limit: 4
 
-=======
-        plugin_posts: yes
-        plugin_posts_source: dev.to
->>>>>>> 9630907740e309233c1f67e85fd5dd4263c816a1
 
