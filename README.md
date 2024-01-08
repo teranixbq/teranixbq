@@ -38,7 +38,7 @@
 </a>
 </p>
 
-### Post
+### RSS
 
-<img src="metrics.plugin.posts.full.svg" alt="github-metrics" />
+<a href="https://kodeteks.com/"><img src="rss.svg" alt="rss" /></a>
 
