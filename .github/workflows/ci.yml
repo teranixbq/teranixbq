@@ -1,4 +1,5 @@
 name: Metrics
+on: [push]
 jobs:
   Metrics:
     runs-on: ubuntu-latest
