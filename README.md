@@ -38,3 +38,7 @@
 </a>
 </p>
 
+### Post
+
+<img src="metrics.plugin.posts.full.svg" alt="github-metrics" />
+
