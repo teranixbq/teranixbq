@@ -11,5 +11,5 @@ jobs:
         token: NOT_NEEDED
         base: ""
         plugin_posts: yes
-        plugin_posts_source: dev.to
+        plugin_posts_source: kodeteks.com
 
