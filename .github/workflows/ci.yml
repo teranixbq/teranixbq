@@ -4,12 +4,14 @@ jobs:
   Metrics:
     runs-on: ubuntu-latest
     steps:
-    - name: Recent posts
+    - name: News kodeteks
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.posts.svg
+        filename: metrics.plugin.rss.svg
         token: NOT_NEEDED
         base: ""
-        plugin_posts: yes
-        plugin_posts_source: kodeteks.com
+        plugin_rss: yes
+        plugin_rss_source: https://feeds.feedburner.com/kodeteks
+        plugin_rss_limit: 4
+
 
