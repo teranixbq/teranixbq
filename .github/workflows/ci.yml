@@ -7,7 +7,7 @@ jobs:
     - name: News kodeteks
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.rss.svg
+        filename: rss.svg
         token: NOT_NEEDED
         base: ""
         plugin_rss: yes
