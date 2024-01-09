@@ -6,9 +6,9 @@
 
 ## :globe_with_meridians: Socials
 
-![Static Badge](https://img.shields.io/badge/linkedin-s?style=flat&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhanieffba)
-![Static Badge](https://img.shields.io/badge/dev.to-s?style=flat&logo=devdotto&logoColor=white&color=%230A0A0A&link=https%3A%2F%2Fdev.to%2Fteranixbq)
-![Static Badge](https://img.shields.io/badge/blogger-s?style=flat&logo=blogger&logoColor=white&color=%23FF5722&link=https%3A%2F%2Fwww.kodeteks.com%2F)
+[![Static Badge](https://img.shields.io/badge/linkedin-s?style=flat&logo=linkedin&logoColor=white&color=%230A66C2)](https://www.linkedin.com/in/hanieffba/)
+[![Static Badge](https://img.shields.io/badge/dev.to-s?style=flat&logo=devdotto&logoColor=white&color=%230A0A0A)](https://dev.to/teranixbq)
+[![Static Badge](https://img.shields.io/badge/blogger-s?style=flat&logo=blogger&logoColor=white&color=%23FF5722)](https://www.kodeteks.com/)
 
 
 ## :trophy: Achievements
