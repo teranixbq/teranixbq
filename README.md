@@ -7,7 +7,7 @@
 ## :globe_with_meridians: Socials
 
 [![Static Badge](https://img.shields.io/badge/linkedin-s?style=flat&logo=linkedin&logoColor=white&color=%230A66C2)](https://www.linkedin.com/in/hanieffba/)
-[![Static Badge](https://img.shields.io/badge/dev.to-s?style=flat&logo=devdotto&logoColor=white&color=%230A0A0A)](https://dev.to/teranixbq)
+[![Static Badge](https://img.shields.io/badge/portofolio-l?style=flat&logo=hugo&logoColor=white&color=%23FF4088)](https://dev.kodeteks.com/)
 [![Static Badge](https://img.shields.io/badge/blogger-s?style=flat&logo=blogger&logoColor=white&color=%23FF5722)](https://www.kodeteks.com/)
 
 
@@ -39,8 +39,9 @@
 ## :bar_chart: Github Statistic
 <p align="left">
 <a href="https://github.com/teranixbq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teranixbq&show_icons=true&theme=aura&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teranixbq&theme=aura&layout=donut"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teranixbq&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teranixbq&theme=midnight-purple&layout=donut"/>
 </a>
 </p>
 
