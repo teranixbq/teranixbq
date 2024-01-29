@@ -37,11 +37,18 @@
 
 
 ## :bar_chart: Github Statistic
-<p align="left">
-<a href="https://github.com/teranixbq">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teranixbq&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teranixbq&theme=dark&layout=donut"/>
+<p align="center">
+<a href="https://github.com/teranixbq">
+  <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teranixbq&theme=aura"/>
+</a><br/>
+<a href="https://github.com/teranixbq">
+   <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teranixbq&theme=aura"/>
+   <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teranixbq&theme=aura"/>
+</a><br/>
+<a href="https://github.com/teranixbq">
+   <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=teranixbq&theme=aura"/>
+   <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=teranixbq&theme=aura&utcOffset=7"/>
 </a>
 </p>
 
