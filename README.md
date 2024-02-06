@@ -46,10 +46,10 @@
    <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teranixbq&theme=aura"/>
    <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teranixbq&theme=aura"/>
 </a><br/>
-<a href="https://github.com/teranixbq">
+<!-- <a href="https://github.com/teranixbq">
    <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=teranixbq&theme=aura"/>
    <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=teranixbq&theme=aura&utcOffset=7"/>
-</a>
+</a> -->
 </p>
 
 ## :bookmark_tabs: RSS
