@@ -1,4 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fteranixbq%2Fteranixbq&label=visitors&labelColor=%23d9e3f0&countColor=%23555555&style=flat)
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fteranixbq&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 <img src="https://storage.kodeteks.com/line.gif">
 
 
