@@ -10,6 +10,8 @@ on:
 jobs:
   Metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - name: News kodeteks
       uses: lowlighter/metrics@latest
@@ -32,5 +34,12 @@ jobs:
         plugin_posts_limit: 2
         plugin_posts_descriptions: yes
         plugin_posts_covers: yes
-
+        
+    - name : metric terminal
+      uses: lowlighter/metrics@latest
+      with:
+        token: ${{ secrets.METRICS_TOKEN }}
+        template: terminal
+        base: header, activity, community, repositories, metadata
+        config_timezone: Asia/Jakarta
 
