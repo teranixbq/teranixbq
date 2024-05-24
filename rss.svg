@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="182" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="253" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,15 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Merubah response data ke csv dengan golang</div>
+                                <div class="date">24 May 2024</div>
+                            </div>
+                        </div>
                         <div class="field rss">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
@@ -49,6 +58,15 @@
                             <div class="infos">
                                 <div class="title">Apa Itu Express.js? Panduan Lengkap tentang Framework Web Node.js</div>
                                 <div class="date">1 Jul 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Mengenal Linux: Sejarah dan Keuntungannya</div>
+                                <div class="date">16 Apr 2023</div>
                             </div>
                         </div>
                     </section>
