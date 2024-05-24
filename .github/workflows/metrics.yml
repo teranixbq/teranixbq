@@ -22,7 +22,7 @@ jobs:
         base: ""
         plugin_rss: yes
         plugin_rss_source: https://feeds.feedburner.com/kodeteks
-        plugin_rss_limit: 4
+        plugin_rss_limit: 6
         
     - name : metric terminal
       uses: lowlighter/metrics@latest
